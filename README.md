@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vishesh Pandita</h1>
 <h3 align="center">FullStack developer with experience in Spring, Java and React</h3>
 
-- 🌱 I’m currently learning **Spring, Nextjs**
+- 🌱 I’m currently learning **Advance System Design**
 
-- 💬 Ask me about **react, Spring boot**
+- 💬 Ask me about **React, Spring boot, Cloud Computing**
 
 - 📫 How to reach me **vishesh.pndta@gmail.com**
 
