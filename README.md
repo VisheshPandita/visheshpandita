@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Advance System Design<br><br>💬 Ask me about React, Spring boot, and Cloud Computing<br><br>📫 How to reach me vishesh.pndta@gmail.com
+🌱 I’m currently learning System Design<br><br>💬 Ask me about React, Spring boot, and Cloud Computing<br><br>📫 How to reach me vishesh.pndta@gmail.com
 
 
 ## 🌐 Socials:
